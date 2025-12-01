@@ -3,7 +3,7 @@
 A modern, responsive e-commerce frontend designed for a luxury eyewear brand. This project demonstrates DOM manipulation, CSS animations, and state management without external frameworks.
 
 ## 🚀 Live Demo
-**[View the Live Website Here](https://massab344.github.io/MIRAZ-PREMIUM-EYEWEAR-STORE/))**
+**[View the Live Website Here](https://massab344.github.io/MIRAZ-PREMIUM-EYEWEAR-STORE/)**
 
 ## ✨ Features
 * **Dynamic Product Grid:** JavaScript generates product cards automatically.
